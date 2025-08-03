@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Goldman:wght@700&display=swap');
+@import "tailwindcss";
+
+@custom-variant dark (&:where([class=dark], [class=dark] *));
+
+
+@theme {
+  --font-gold: "Goldman", "sans-serif"; 
+}
