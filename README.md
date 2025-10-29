@@ -30,7 +30,7 @@
 
 ---
 
-## 🎬 Demo
+## Photos:
 
 <div align="center">
   
@@ -126,15 +126,12 @@
 
 1. **Clone the repository**
 ```bash
-   git clone https://github.com/your-username/secondbrain.git
-   cd secondbrain
+   git clone https://github.com/Vishv510/Brainly.git
+   cd Brainly
 ```
 
 2. **Install dependencies**
 ```bash
-   # Install root dependencies
-   npm install
-
    # Install client dependencies
    cd client
    npm install
@@ -235,64 +232,3 @@ secondbrain/
 - **Filter**: Organize by content type or tags
 
 ---
-
-## 🗺️ Roadmap
-
-- [x] User authentication
-- [x] Content CRUD operations
-- [x] Sharing functionality
-- [ ] Content tagging system
-- [ ] Advanced search and filters
-- [ ] Browser extension
-- [ ] Mobile application
-- [ ] AI-powered content recommendations
-- [ ] Team workspaces
-- [ ] Export/Import functionality
-
-See the [open issues](https://github.com/your-username/secondbrain/issues) for a full list of proposed features and known issues.
-
----
-
-## 🤝 Contributing
-
-Contributions make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
----
-
-## 📧 Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - email@example.com
-
-Project Link: [https://github.com/your-username/secondbrain](https://github.com/your-username/secondbrain)
-
----
-
-## 🙏 Acknowledgments
-
-- [React Documentation](https://reactjs.org/)
-- [Node.js Documentation](https://nodejs.org/)
-- [MongoDB Documentation](https://docs.mongodb.com/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Lucide Icons](https://lucide.dev/)
-
----
-
-<div align="center">
-
-**Built with ❤️ by [Your Name](https://github.com/your-username)**
-
-⭐ Star this repo if you find it helpful!
-
-</div>
