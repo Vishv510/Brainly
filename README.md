@@ -1,4 +1,4 @@
-# 🧠 SecondBrain – Organize. Store. Access.
+# 🧠 Brainly – Organize. Store. Access.
 
 <div align="center">
 
